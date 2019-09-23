@@ -1,2 +1,2 @@
 # pythonSamples
-Repository for Python samples
+Meu repositório para exemplos diversos e testes em Python
